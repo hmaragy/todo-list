@@ -1,6 +1,6 @@
 {
   "homepage": ".",
-  "name": "clean-architecture-todo-list",
+  "name": "todo-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
