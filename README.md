@@ -1,12 +1,28 @@
-# Getting Started with Create React App
+<h1>Todo List Application</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>Description:</h2>
 
-## Available Scripts
+<p>This is a basic todo list application with the following functionality</p>
+<ol>
+  <li>Add a todo list item</li>
+  <li>Delete a todo list item</li>
+  <li>Mark item as completed</li>
+  <li>Filter items by activity / completion</li>
+</ol>
 
-In the project directory, you can run:
+<h2>Thumbnail</h2>
+
+<img src="./todo-list-thumb.png" alt="Thumbnail">
+
+<h2>Available Scripts</h2>
+
+<p>In the project directory, you can run:</p>
 
 ### `yarn start`
+
+or
+
+### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,12 +30,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `yarn build`
+
+or
+
+### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
