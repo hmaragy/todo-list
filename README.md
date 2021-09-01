@@ -14,6 +14,10 @@
 
 <img src="./todo-list-thumb.png" alt="Thumbnail">
 
+<h2>Usage</h2>
+
+<img src="./todo-list-vid.gif" alt="Thumbnail vid">
+
 <h2>Available Scripts</h2>
 
 <p>In the project directory, you can run:</p>
