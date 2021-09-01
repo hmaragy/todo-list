@@ -18,8 +18,15 @@
 
 <img src="./todo-list-vid.gif" alt="Thumbnail vid">
 
-<h2>Available Scripts</h2>
+<h2>Technologies used: </h2>
+<ul>
+  <li>React</li>
+  <li>Redux</li>
+  <li>Tailwind CSS Framework</li>
+  <li>React-icons</li>
+</ul>
 
+<h2>Available Scripts</h2>
 <p>In the project directory, you can run:</p>
 
 ### `yarn start`
