@@ -1,4 +1,5 @@
 <h1>Todo List Application</h1>
+<p>Try it out using this live URL <a href="https://hmaragy.github.io/todo-list/build/" target="_blank">https://hmaragy.github.io/todo-list/build/</a></p>
 
 <h2>Description:</h2>
 
